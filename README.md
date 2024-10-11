@@ -1,4 +1,4 @@
-This is a ML Project , part of IBM Data Science Professional certification , Where based on the previous data , we will predict the Successful Landing of SpaceX Falcon 9.
+This is an ML Project , part of IBM Data Science Professional certification , Where based on the previous data , we will predict the Successful Landing of SpaceX Falcon 9.
 
 Topics Covered:
 
